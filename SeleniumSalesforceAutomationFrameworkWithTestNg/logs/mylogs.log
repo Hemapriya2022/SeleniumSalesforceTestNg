@@ -1,0 +1,1333 @@
+20241029 03:06:33 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:06:39 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the username
+20241029 03:25:56 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java21 - SalesforceTest started...............
+20241029 03:25:56 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:26:14 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:26:19 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Check_RemeberMe started..................
+20241029 03:26:20 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the username
+20241029 03:26:20 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 03:26:22 INFO  [main] base.BaseTest BaseTest.java383 - login button is clicked
+20241029 03:26:22 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Check_RemeberMe ended with failure.....................
+20241029 03:26:27 ERROR [main] base.BaseTest BaseTest.java710 - problem occured during screenshot taking
+20241029 03:26:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:26:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:26:43 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:26:48 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Forgot_Password1 started..................
+20241029 03:26:54 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - Forgot_Password1 ended with success......................
+20241029 03:26:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:26:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:27:06 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:27:11 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Forgot_Password2 started..................
+20241029 03:27:12 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the username
+20241029 03:27:12 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 03:27:12 INFO  [main] base.BaseTest BaseTest.java383 - login button is clicked
+20241029 03:27:13 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password2 ended with failure.....................
+20241029 03:27:13 ERROR [main] base.BaseTest BaseTest.java710 - problem occured during screenshot taking
+20241029 03:27:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:27:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:27:26 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:27:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - login_Error_Message started..................
+20241029 03:27:32 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the username
+20241029 03:27:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - login_Error_Message ended with success......................
+20241029 03:27:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:27:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:27:45 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:27:50 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - login_Salesforce started..................
+20241029 03:27:51 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the username
+20241029 03:27:51 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 03:27:52 INFO  [main] base.BaseTest BaseTest.java383 - login button is clicked
+20241029 03:27:52 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - login_Salesforce ended with success......................
+20241029 03:27:55 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:27:55 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java27 - SalesforceTest ended.................
+20241029 03:33:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:34:02 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:34:08 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the username
+20241029 03:34:12 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:36:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:36:28 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:36:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:44:49 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:44:59 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:45:04 ERROR [main] tests.LoginTests LoginTests.java145 - An error occurred during login test: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:114) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241029 03:45:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 03:53:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 03:53:10 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 03:53:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 04:05:40 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 04:05:48 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 04:05:56 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 04:16:47 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 04:16:58 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 04:17:04 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 04:17:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 04:32:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 04:32:39 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 04:32:44 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 04:32:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 04:38:55 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 04:39:03 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 04:39:10 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 04:39:13 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241029 05:05:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241029 05:05:26 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241029 05:05:32 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241029 05:05:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 19:14:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:14:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:17:22 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:17:29 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:17:41 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:23 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:29 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:30 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:31 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:32 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:36 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:41 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:42 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:18:56 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241101 19:19:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 19:20:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 19:20:21 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 19:20:26 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241101 19:20:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 22:59:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 22:59:58 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:00:05 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241101 23:00:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:10:27 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:10:36 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:12:43 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:12:52 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:14:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:14:42 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:33:09 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:33:21 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:33:29 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241101 23:33:30 INFO  [main] base.BaseTest BaseTest.java383 - login button button is clicked
+20241101 23:33:47 ERROR [main] tests.OppertunitiesTests OppertunitiesTests.java42 - Failed to locate elements in opportunities dropdown test.
+20241101 23:33:54 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:40:34 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:40:44 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:41:31 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241101 23:41:32 INFO  [main] base.BaseTest BaseTest.java383 - login button button is clicked
+20241101 23:41:37 ERROR [main] tests.OppertunitiesTests OppertunitiesTests.java42 - Failed to locate elements in opportunities dropdown test.
+20241101 23:41:40 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:43:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:43:51 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:43:58 INFO  [main] base.BaseTest BaseTest.java370 - data is entered in the password
+20241101 23:43:58 INFO  [main] base.BaseTest BaseTest.java383 - login button button is clicked
+20241101 23:44:07 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:52:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:52:39 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:52:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:54:37 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:54:45 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:54:54 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:55:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:56:07 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:56:16 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241101 23:58:04 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241101 23:58:12 INFO  [main] base.BaseTest BaseTest.java62 - https://login.salesforce.com/is entered
+20241101 23:58:21 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 00:05:03 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 00:05:12 INFO  [main] base.BaseTest BaseTest.java67 - https://login.salesforce.com/is entered
+20241102 00:05:20 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 00:09:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 00:09:52 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 00:10:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 18:19:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:19:48 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 18:19:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 18:30:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:30:57 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 18:31:06 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 18:33:57 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:34:07 INFO  [main] base.BaseTest BaseTest.java80 - https://login.salesforce.com/is entered
+20241102 18:34:16 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 18:39:33 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:39:44 INFO  [main] base.BaseTest BaseTest.java80 - https://login.salesforce.com/is entered
+20241102 18:45:53 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:46:05 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 18:47:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:47:29 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 18:47:37 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 18:52:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 18:52:43 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 18:52:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 19:03:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 19:03:58 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 19:04:06 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 19:06:59 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 19:07:07 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 19:07:13 INFO  [main] base.BaseTest BaseTest.java389 - data is entered in the username
+20241102 19:07:16 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 19:18:38 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 19:18:48 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 19:18:54 INFO  [main] base.BaseTest BaseTest.java389 - data is entered in the username
+20241102 19:18:57 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241102 19:43:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241102 19:43:46 INFO  [main] base.BaseTest BaseTest.java79 - https://login.salesforce.com/is entered
+20241102 19:43:52 INFO  [main] base.BaseTest BaseTest.java389 - data is entered in the username
+20241102 19:43:56 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 00:55:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 00:55:18 INFO  [main] base.BaseTest BaseTest.java91 - https://login.salesforce.com/is entered
+20241103 00:57:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 00:58:01 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 00:58:07 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 00:58:11 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 00:59:06 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 00:59:14 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 00:59:20 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 00:59:20 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 00:59:22 INFO  [main] base.BaseTest BaseTest.java404 - login button is clicked
+20241103 00:59:25 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 00:59:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:00:06 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:00:12 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:00:12 ERROR [main] tests.LoginTests LoginTests.java111 - An error occurred during login test: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:88) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:00:15 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:08:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:08:40 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:08:46 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:08:46 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:08:47 ERROR [main] tests.LoginTests LoginTests.java111 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavButton"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51545}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3499386e6367dc587951a727c8da68de
+*** Element info: {Using=id, value=userNavButton}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:98) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:08:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:11:19 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:11:28 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:11:33 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:11:34 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:11:36 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:11:40 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32097ec65185298be222a127907e26e0
+*** Element info: {Using=id, value=idcard-identity}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:109) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:11:43 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:14:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:14:33 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:14:39 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:14:40 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:14:41 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:14:41 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavButton"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51627}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 819f9a1bfd5786e96006f7c15c7803a7
+*** Element info: {Using=id, value=userNavButton}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:101) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:14:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:18:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:18:16 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:18:22 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:18:22 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:18:23 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:18:23 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNav\-arrow"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d79e68bccc664cfdbdcd94d7c873ea95
+*** Element info: {Using=id, value=userNav-arrow}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:101) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:18:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:26:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:26:50 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:27:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:36:05 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:36:13 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:36:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:40:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:40:12 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:40:17 INFO  [main] base.BaseTest BaseTest.java404 - forgotPasswordLink button is clicked
+20241103 01:40:21 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:41:04 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:41:13 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:41:18 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:41:19 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:41:19 INFO  [main] base.BaseTest BaseTest.java404 - login button is clicked
+20241103 01:41:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:43:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:43:33 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:43:38 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:43:39 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:43:39 INFO  [main] base.BaseTest BaseTest.java404 - login button is clicked
+20241103 01:43:43 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:50:53 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:51:02 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:51:08 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:51:08 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:51:09 INFO  [main] base.BaseTest BaseTest.java404 - login button is clicked
+20241103 01:51:12 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:55:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:56:08 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:56:13 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:56:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:06:04 ERROR [main] examples.LogTests LogTests.java59 - test completed with failure
+20241103 01:33:24 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java21 - SalesforceTest started...............
+20241103 01:33:24 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:33:34 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:33:39 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Check_RememberMe started..................
+20241103 01:33:39 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:33:39 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:33:41 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:33:41 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavButton"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 123607fd2338966f38d98cfbd18cd3a5
+*** Element info: {Using=id, value=userNavButton}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:101) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:33:41 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - Check_RememberMe ended with success......................
+20241103 01:33:45 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:33:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:33:55 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:34:00 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Forgot_Password1 started..................
+20241103 01:34:00 INFO  [main] base.BaseTest BaseTest.java404 - forgotPasswordLink button is clicked
+20241103 01:34:01 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:34:01 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:34:01 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java27 - SalesforceTest ended.................
+20241103 01:39:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:40:01 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:40:07 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:40:08 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241103 01:40:15 ERROR [main] tests.OpportunitiesTests OpportunitiesTests.java42 - Failed to locate elements in opportunities dropdown test.
+20241103 01:40:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:42:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:42:57 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:43:03 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:43:04 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241103 01:43:11 INFO  [main] base.BaseTest BaseTest.java404 - Opportunities Tab button is clicked
+20241103 01:43:11 INFO  [main] base.BaseTest BaseTest.java415 - userDropDown button is selected
+20241103 01:43:11 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java37 - The opportunities dropdown is present on the page.
+20241103 01:43:15 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:43:40 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:43:49 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:43:55 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:43:56 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241103 01:44:02 INFO  [main] base.BaseTest BaseTest.java404 - opportunitiesTab button is clicked
+20241103 01:44:02 INFO  [main] base.BaseTest BaseTest.java404 - newButton button is clicked
+20241103 01:44:02 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java57 - opportunity name is entered
+20241103 01:44:03 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java60 -  Account Name is entered
+20241103 01:44:03 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java63 -  Close Date is entered
+20241103 01:44:03 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java67 -  prospecting is selected
+20241103 01:44:03 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java70 - Probability textbox is filled with 30 value
+20241103 01:44:03 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java73 - web is selected in Lead source
+20241103 01:44:03 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java76 - xyz is printed in primary campaign source
+20241103 01:44:04 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java81 - New Opportunity created successfully.
+20241103 01:44:07 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:44:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:44:45 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:44:51 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:44:52 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241103 01:44:58 INFO  [main] base.BaseTest BaseTest.java404 - opportunitiesTab button is clicked
+20241103 01:44:58 INFO  [main] base.BaseTest BaseTest.java404 - opportunityPipeline button is clicked
+20241103 01:44:58 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java99 - Report Page Title: Opportunities: Home ~ Salesforce - Developer Edition
+20241103 01:45:02 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:45:24 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:45:33 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:45:39 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:45:40 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241103 01:45:47 INFO  [main] base.BaseTest BaseTest.java404 - opportunitiesTab button is clicked
+20241103 01:45:48 INFO  [main] base.BaseTest BaseTest.java404 - stuckOpportunities button is clicked
+20241103 01:45:48 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java115 - Report Page Title: Stuck Opportunities ~ Salesforce - Developer Edition
+20241103 01:45:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:46:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:46:27 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:46:33 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:46:34 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241103 01:46:40 INFO  [main] base.BaseTest BaseTest.java404 - opportunitiesTab button is clicked
+20241103 01:46:41 INFO  [main] base.BaseTest BaseTest.java404 - quarterlySummaryLink button is clicked
+20241103 01:46:41 INFO  [main] base.BaseTest BaseTest.java415 - CurrentFQ button is selected
+20241103 01:46:41 INFO  [main] base.BaseTest BaseTest.java415 - CurrentFQ button is selected
+20241103 01:46:41 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java134 - Report Page Title: Opportunities: Home ~ Salesforce - Developer Edition
+20241103 01:46:41 INFO  [main] tests.OpportunitiesTests OpportunitiesTests.java136 - Report page displayed with results based on search criteria.
+20241103 01:46:44 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:47:15 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java21 - SalesforceTest started...............
+20241103 01:47:15 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:47:25 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:47:30 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Check_RememberMe started..................
+20241103 01:47:30 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:47:30 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:47:31 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:47:32 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavButton"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55184}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd280af2faa38e58670b8450b4ffb5b2
+*** Element info: {Using=id, value=userNavButton}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:101) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:47:32 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - Check_RememberMe ended with success......................
+20241103 01:47:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:47:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:47:43 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:47:48 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Forgot_Password1 started..................
+20241103 01:47:49 INFO  [main] base.BaseTest BaseTest.java404 - forgotPasswordLink button is clicked
+20241103 01:47:49 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:47:49 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:47:49 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java27 - SalesforceTest ended.................
+20241103 01:48:31 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java21 - SalesforceTest started...............
+20241103 01:48:32 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:48:40 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:48:45 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Check_RememberMe started..................
+20241103 01:48:45 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:48:49 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:48:50 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:48:53 INFO  [main] base.BaseTest BaseTest.java404 - userMenu button is clicked
+20241103 01:48:58 INFO  [main] base.BaseTest BaseTest.java404 - logoutLink button is clicked
+20241103 01:48:58 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55254}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6350c0ec55fe45f05a71230848c67d2e
+*** Element info: {Using=id, value=idcard-identity}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:109) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:48:58 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - Check_RememberMe ended with success......................
+20241103 01:49:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:49:02 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:49:11 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:49:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Forgot_Password1 started..................
+20241103 01:49:16 INFO  [main] base.BaseTest BaseTest.java404 - forgotPasswordLink button is clicked
+20241103 01:49:16 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:49:16 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:49:16 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java27 - SalesforceTest ended.................
+20241103 01:52:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java21 - SalesforceTest started...............
+20241103 01:52:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:52:46 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:52:51 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Check_RememberMe started..................
+20241103 01:52:52 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the username
+20241103 01:52:52 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241103 01:52:59 INFO  [main] base.BaseTest BaseTest.java404 - loginButton button is clicked
+20241103 01:53:05 INFO  [main] base.BaseTest BaseTest.java404 - userMenu button is clicked
+20241103 01:53:06 INFO  [main] base.BaseTest BaseTest.java404 - logoutLink button is clicked
+20241103 01:53:06 ERROR [main] tests.LoginTests LoginTests.java114 - An error occurred during login test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#idcard\-identity"}
+  (Session info: chrome=130.0.6723.92)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.92, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be1fb83ff1555e406b5d08e5ea2c41c7
+*** Element info: {Using=id, value=idcard-identity}
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at com.automation.tests.LoginTests.Check_RememberMe(LoginTests.java:109) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+20241103 01:53:06 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java41 - Check_RememberMe ended with success......................
+20241103 01:53:10 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241103 01:53:12 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241103 01:53:24 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241103 01:53:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java35 - Forgot_Password1 started..................
+20241103 01:53:29 INFO  [main] base.BaseTest BaseTest.java404 - forgotPasswordLink button is clicked
+20241103 01:53:29 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:53:29 ERROR [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java47 - Forgot_Password1 ended with failure.....................
+20241103 01:53:29 INFO  [main] utility.SalesforceListenerUtility SalesforceListenerUtility.java27 - SalesforceTest ended.................
+20241107 14:00:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241107 14:01:08 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241107 14:01:15 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241107 14:01:16 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241107 14:01:31 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241107 14:01:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241107 14:05:55 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241107 14:06:04 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241107 14:06:10 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241107 14:06:11 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241107 14:06:17 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241107 14:06:18 INFO  [main] base.BaseTest BaseTest.java404 - newViewLink button is clicked
+20241107 14:06:23 INFO  [main] base.BaseTest BaseTest.java404 -  saveButton button is clicked
+20241107 14:07:20 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241107 14:07:30 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241107 14:07:35 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241107 14:07:37 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241107 14:07:47 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241107 15:58:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241107 15:58:35 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241107 15:58:41 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241107 15:58:42 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241107 15:58:48 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241107 15:58:48 INFO  [main] base.BaseTest BaseTest.java404 - newViewLink button is clicked
+20241107 15:58:48 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the Hello
+20241107 15:58:48 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the test
+20241107 15:58:49 INFO  [main] base.BaseTest BaseTest.java404 -  saveButton button is clicked
+20241107 15:58:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241107 15:59:27 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241107 15:59:36 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241107 15:59:42 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241107 15:59:43 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241107 15:59:49 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241107 15:59:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241110 22:39:49 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241110 22:40:09 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241110 22:40:24 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241110 22:40:26 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241110 22:40:44 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241110 22:40:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 14:32:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 14:32:42 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 14:32:51 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 14:32:53 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 14:33:02 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 14:33:06 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 14:33:06 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 14:33:13 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 14:33:20 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 14:33:20 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 14:33:26 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 14:33:28 INFO  [main] base.BaseTest BaseTest.java404 - newViewLink button is clicked
+20241128 14:33:28 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the Hello
+20241128 14:33:28 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the test
+20241128 14:33:28 INFO  [main] base.BaseTest BaseTest.java404 -  saveButton button is clicked
+20241128 14:33:32 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 14:39:41 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 14:39:49 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 14:39:54 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 14:42:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 14:43:06 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 14:43:12 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 14:43:13 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 14:43:20 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 14:43:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 14:43:24 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 14:43:34 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 14:43:40 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 14:43:41 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 14:43:48 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 14:43:48 INFO  [main] base.BaseTest BaseTest.java423 - Hello button is selected
+20241128 14:43:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 14:43:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 14:44:04 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 14:44:11 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 14:44:11 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 14:44:18 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 14:44:21 INFO  [main] base.BaseTest BaseTest.java404 - newViewLink button is clicked
+20241128 14:44:21 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the Hello
+20241128 14:44:21 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the test
+20241128 14:44:21 INFO  [main] base.BaseTest BaseTest.java404 -  saveButton button is clicked
+20241128 14:44:25 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 15:06:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 15:06:32 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 15:06:38 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 15:06:38 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 15:06:49 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 15:06:49 INFO  [main] base.BaseTest BaseTest.java423 - Hello button is selected
+20241128 15:06:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 15:21:05 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 15:21:15 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 15:21:21 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 15:21:22 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 15:21:51 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 15:21:52 INFO  [main] base.BaseTest BaseTest.java423 - Hello button is selected
+20241128 15:21:53 INFO  [main] base.BaseTest BaseTest.java404 - editLink button is clicked
+20241128 15:21:54 INFO  [main] base.BaseTest BaseTest.java423 - Account Name button is selected
+20241128 15:21:55 INFO  [main] base.BaseTest BaseTest.java423 - contains button is selected
+20241128 15:22:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 15:22:58 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 15:23:06 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 15:23:12 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 15:23:13 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 15:23:21 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 15:23:22 INFO  [main] base.BaseTest BaseTest.java404 - newViewLink button is clicked
+20241128 15:23:22 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the Hello
+20241128 15:23:22 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the test
+20241128 15:23:23 INFO  [main] base.BaseTest BaseTest.java404 -  saveButton button is clicked
+20241128 15:23:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 15:23:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 15:23:59 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 15:24:05 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 15:24:06 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 15:24:13 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 15:24:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241128 15:26:40 INFO  [main] base.BaseSalesForce BaseSalesForce.java24 - *********************setUpBeforeMethod**************************
+20241128 15:26:49 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241128 15:26:55 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241128 15:26:56 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241128 15:27:03 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241128 15:27:05 INFO  [main] base.BaseTest BaseTest.java404 - newButton button is clicked
+20241128 15:27:05 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the hema
+20241128 15:27:06 INFO  [main] base.BaseTest BaseTest.java423 - Technology Partner button is selected
+20241128 15:27:06 INFO  [main] base.BaseTest BaseTest.java423 - High button is selected
+20241128 15:27:07 INFO  [main] base.BaseTest BaseTest.java404 - saveButton button is clicked
+20241128 15:27:10 INFO  [main] base.BaseSalesForce BaseSalesForce.java39 - ****************tearDownAfterTestMethod*******************
+20241203 14:28:19 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241203 14:28:26 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241203 14:28:33 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241203 14:28:34 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241203 14:28:40 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241203 14:28:40 INFO  [main] base.BaseTest BaseTest.java404 - Merge Accounts Link button is clicked
+20241203 14:28:44 INFO  [main] base.BaseTest BaseTest.java404 - Find Accounts Button button is clicked
+20241203 14:28:45 INFO  [main] base.BaseTest BaseTest.java404 - Next Button button is clicked
+20241203 14:28:45 INFO  [main] base.BaseTest BaseTest.java404 - mergeButton button is clicked
+20241203 14:31:55 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241203 14:32:03 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241203 14:32:09 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241203 14:32:09 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241203 14:32:15 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241203 14:32:16 INFO  [main] base.BaseTest BaseTest.java404 - Merge Accounts Link button is clicked
+20241203 14:32:19 INFO  [main] base.BaseTest BaseTest.java404 - Find Accounts Button button is clicked
+20241203 14:32:20 INFO  [main] base.BaseTest BaseTest.java404 - Next Button button is clicked
+20241203 14:32:21 INFO  [main] base.BaseTest BaseTest.java404 - mergeButton button is clicked
+20241203 14:32:25 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241203 14:41:35 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241203 14:41:44 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241203 14:41:50 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241203 14:41:51 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241203 14:41:57 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241203 14:41:58 INFO  [main] base.BaseTest BaseTest.java404 - Merge Accounts Link button is clicked
+20241203 14:42:04 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241203 23:59:24 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241204 00:00:13 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241204 00:00:19 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241204 00:00:23 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241204 00:01:15 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241204 00:02:22 INFO  [main] base.BaseTest BaseTest.java404 - Merge Accounts Link button is clicked
+20241204 00:04:19 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241204 00:04:36 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241204 00:04:42 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241204 00:04:46 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241204 00:04:57 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241204 00:04:58 INFO  [main] base.BaseTest BaseTest.java404 - Merge Accounts Link button is clicked
+20241204 00:05:02 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 03:46:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 03:46:51 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 03:47:08 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 03:47:10 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 03:47:29 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 03:47:42 INFO  [main] base.BaseTest BaseTest.java404 - newButton button is clicked
+20241212 03:47:43 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the xyz
+20241212 03:47:43 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the ABCD
+20241212 03:47:44 INFO  [main] base.BaseTest BaseTest.java404 - saveButton button is clicked
+20241212 03:47:44 INFO  [main] tests.ContactsTests ContactsTests.java44 - New contact has been created.
+20241212 03:47:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 03:50:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 03:50:28 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 03:50:34 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 03:50:35 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 03:50:44 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 03:50:44 INFO  [main] base.BaseTest BaseTest.java404 - newViweLink button is clicked
+20241212 03:50:45 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the bird
+20241212 03:50:45 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the dove
+20241212 03:50:45 INFO  [main] base.BaseTest BaseTest.java404 - saveButton button is clicked
+20241212 03:50:45 INFO  [main] tests.ContactsTests ContactsTests.java69 - created view name is displayed in drop down page.
+20241212 03:50:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 03:54:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 03:54:38 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 03:54:44 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 03:54:44 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 03:54:55 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 03:54:55 INFO  [main] base.BaseTest BaseTest.java404 - recentContactdropDown button is clicked
+20241212 03:54:56 INFO  [main] tests.ContactsTests ContactsTests.java87 - Recently created contacts displayed.
+20241212 03:54:59 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 03:56:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 03:57:02 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 03:57:08 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 03:57:08 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 03:57:16 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 03:57:17 INFO  [main] base.BaseTest BaseTest.java404 - viewDropDown button is clicked
+20241212 03:57:17 INFO  [main] tests.ContactsTests ContactsTests.java106 - my contacts view displayed
+20241212 03:57:20 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:02:03 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:02:11 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:02:16 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:02:17 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:02:24 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 04:02:24 INFO  [main] base.BaseTest BaseTest.java404 - contactName button is clicked
+20241212 04:02:28 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:04:37 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:04:45 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:04:51 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:04:53 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:04:59 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 04:05:00 INFO  [main] base.BaseTest BaseTest.java404 - creatNewView button is clicked
+20241212 04:05:00 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the EFGH
+20241212 04:05:01 INFO  [main] base.BaseTest BaseTest.java404 - saveButton button is clicked
+20241212 04:05:04 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:06:57 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:07:04 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:07:11 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:07:12 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:07:18 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 04:07:20 INFO  [main] base.BaseTest BaseTest.java404 - creatNewView button is clicked
+20241212 04:07:20 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the ABCD
+20241212 04:07:20 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the EFGH
+20241212 04:07:20 INFO  [main] base.BaseTest BaseTest.java404 - cancelButton button is clicked
+20241212 04:07:20 INFO  [main] tests.ContactsTests ContactsTests.java157 - testcase passed
+20241212 04:07:24 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:10:02 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:10:11 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:10:17 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:10:18 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:10:25 INFO  [main] base.BaseTest BaseTest.java404 - contactTab button is clicked
+20241212 04:10:26 INFO  [main] base.BaseTest BaseTest.java404 - newButton button is clicked
+20241212 04:10:26 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the Indian
+20241212 04:10:26 INFO  [main] base.BaseTest BaseTest.java414 - Data entered in the GlobalMedia
+20241212 04:10:27 INFO  [main] base.BaseTest BaseTest.java404 - saveButton button is clicked
+20241212 04:10:27 INFO  [main] tests.ContactsTests ContactsTests.java184 - Contact created successfully!
+20241212 04:10:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:27:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:28:00 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:28:06 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:28:07 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:28:14 INFO  [main] tests.LeadsTests LeadsTests.java29 - Leads tab is visible.
+20241212 04:28:21 INFO  [main] base.BaseTest BaseTest.java404 - leadTabLink button is clicked
+20241212 04:28:21 INFO  [main] base.BaseTest BaseTest.java404 - userMenu button is clicked
+20241212 04:28:21 INFO  [main] base.BaseTest BaseTest.java404 - logout button is clicked
+20241212 04:28:25 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:36:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:36:57 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:37:03 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:37:04 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:37:11 INFO  [main] base.BaseTest BaseTest.java404 - Leads Tab button is clicked
+20241212 04:37:15 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:37:15 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:37:23 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:37:28 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:37:32 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:37:37 INFO  [main] base.BaseTest BaseTest.java404 - leadTabLink button is clicked
+20241212 04:37:38 INFO  [main] base.BaseTest BaseTest.java404 - newButton button is clicked
+20241212 04:37:42 INFO  [main] base.BaseTest BaseTest.java404 - saveButton button is clicked
+20241212 04:37:43 INFO  [main] base.BaseSalesForce BaseSalesForce.java83 - Logout successful
+20241212 04:37:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:37:47 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:37:55 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:38:00 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:38:01 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:38:06 INFO  [main] tests.LeadsTests LeadsTests.java37 - Leads tab is visible.
+20241212 04:38:07 INFO  [main] base.BaseTest BaseTest.java404 - leadTabLink button is clicked
+20241212 04:38:07 INFO  [main] base.BaseTest BaseTest.java404 - userMenu button is clicked
+20241212 04:38:07 INFO  [main] base.BaseTest BaseTest.java404 - logout button is clicked
+20241212 04:38:11 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:38:11 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:38:18 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:38:24 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:38:25 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:38:31 INFO  [main] base.BaseTest BaseTest.java404 - leadTabLink button is clicked
+20241212 04:38:31 INFO  [main] base.BaseTest BaseTest.java404 - viewDrobDown button is clicked
+20241212 04:38:31 ERROR [main] base.BaseTest BaseTest.java426 - todaysLeadsOption button is already selected
+20241212 04:38:31 INFO  [main] base.BaseTest BaseTest.java404 - goButton button is clicked
+20241212 04:38:33 INFO  [main] base.BaseSalesForce BaseSalesForce.java83 - Logout successful
+20241212 04:38:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241212 04:38:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241212 04:38:44 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241212 04:38:49 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241212 04:38:50 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241212 04:38:56 INFO  [main] base.BaseSalesForce BaseSalesForce.java83 - Logout successful
+20241212 04:39:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241215 19:56:50 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241215 19:57:13 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241215 19:57:31 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241215 19:57:33 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241215 19:57:41 INFO  [main] base.BaseTest BaseTest.java404 - accountsLink button is clicked
+20241215 19:57:41 INFO  [main] base.BaseTest BaseTest.java423 - Hello button is selected
+20241215 19:57:46 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241215 22:20:10 INFO  [main] base.BaseSalesForce BaseSalesForce.java25 - *********************setUpBeforeMethod**************************
+20241215 22:20:24 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241215 22:20:34 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241215 22:20:35 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241215 22:20:49 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241215 22:20:50 INFO  [main] base.BaseTest BaseTest.java404 - Merge Accounts Link button is clicked
+20241215 22:20:55 INFO  [main] base.BaseSalesForce BaseSalesForce.java40 - ****************tearDownAfterTestMethod*******************
+20241215 23:09:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241215 23:10:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241215 23:10:01 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241215 23:10:07 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241215 23:10:15 INFO  [main] base.BaseTest BaseTest.java81 - https://login.salesforce.com/is entered
+20241215 23:10:21 INFO  [main] base.BaseTest BaseTest.java391 - data is entered in the password
+20241215 23:10:23 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241215 23:10:25 INFO  [main] base.BaseTest BaseTest.java404 - login button button is clicked
+20241215 23:10:37 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241215 23:10:37 INFO  [main] base.BaseTest BaseTest.java404 - Accounts Link button is clicked
+20241215 23:10:41 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241215 23:10:41 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241215 23:26:41 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241215 23:26:51 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241215 23:26:57 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241215 23:26:59 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241215 23:27:06 INFO  [main] base.BaseTest BaseTest.java405 - Accounts Link button is clicked
+20241215 23:27:07 INFO  [main] base.BaseTest BaseTest.java405 - Merge Accounts Link button is clicked
+20241215 23:27:11 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241215 23:34:09 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241215 23:34:17 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241215 23:34:24 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241215 23:34:25 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241215 23:34:31 INFO  [main] base.BaseTest BaseTest.java405 - Accounts Link button is clicked
+20241215 23:34:32 INFO  [main] base.BaseTest BaseTest.java405 - Merge Accounts Link button is clicked
+20241215 23:34:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:05:49 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:05:57 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:06:04 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:06:05 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:06:11 INFO  [main] base.BaseTest BaseTest.java405 - Accounts Link button is clicked
+20241216 00:06:12 INFO  [main] base.BaseTest BaseTest.java405 - Merge Accounts Link button is clicked
+20241216 00:06:13 INFO  [main] base.BaseTest BaseTest.java405 - Find Accounts Button button is clicked
+20241216 00:06:15 INFO  [main] base.BaseTest BaseTest.java405 - Next Button button is clicked
+20241216 00:06:15 INFO  [main] base.BaseTest BaseTest.java405 - mergeButton button is clicked
+20241216 00:06:20 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:12:13 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:12:21 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:12:28 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:12:32 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:12:38 INFO  [main] base.BaseTest BaseTest.java405 - Accounts Link button is clicked
+20241216 00:12:40 INFO  [main] base.BaseTest BaseTest.java405 - Merge Accounts Link button is clicked
+20241216 00:12:41 INFO  [main] base.BaseTest BaseTest.java405 - Find Accounts Button button is clicked
+20241216 00:12:43 INFO  [main] base.BaseTest BaseTest.java405 - Next Button button is clicked
+20241216 00:12:43 INFO  [main] base.BaseTest BaseTest.java405 - Merge Button button is clicked
+20241216 00:13:17 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:20:25 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:20:34 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:20:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:22:49 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:22:58 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:23:04 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:23:05 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:23:12 INFO  [main] base.BaseTest BaseTest.java424 - Hello button is selected
+20241216 00:23:13 INFO  [main] base.BaseTest BaseTest.java405 - editLink button is clicked
+20241216 00:23:13 INFO  [main] base.BaseTest BaseTest.java424 - Account Name button is selected
+20241216 00:23:14 INFO  [main] base.BaseTest BaseTest.java424 - contains button is selected
+20241216 00:23:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:30:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:30:42 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:31:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:31:33 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:31:39 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:31:40 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:31:46 INFO  [main] base.BaseTest BaseTest.java405 - accountsLink button is clicked
+20241216 00:31:47 INFO  [main] base.BaseTest BaseTest.java405 - newButton button is clicked
+20241216 00:31:47 INFO  [main] base.BaseTest BaseTest.java415 - Data entered in the hema
+20241216 00:31:47 INFO  [main] base.BaseTest BaseTest.java424 - Technology Partner button is selected
+20241216 00:31:47 INFO  [main] base.BaseTest BaseTest.java424 - High button is selected
+20241216 00:31:48 INFO  [main] base.BaseTest BaseTest.java405 - saveButton button is clicked
+20241216 00:31:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:31:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:32:01 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:32:06 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:32:07 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:32:14 INFO  [main] base.BaseTest BaseTest.java424 - Hello button is selected
+20241216 00:32:16 INFO  [main] base.BaseTest BaseTest.java405 - editLink button is clicked
+20241216 00:32:16 INFO  [main] base.BaseTest BaseTest.java424 - Account Name button is selected
+20241216 00:32:16 INFO  [main] base.BaseTest BaseTest.java424 - contains button is selected
+20241216 00:32:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:32:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:32:31 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:32:37 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:32:38 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:32:45 INFO  [main] base.BaseTest BaseTest.java405 - Accounts Link button is clicked
+20241216 00:32:46 INFO  [main] base.BaseTest BaseTest.java405 - Merge Accounts Link button is clicked
+20241216 00:32:47 INFO  [main] base.BaseTest BaseTest.java405 - Find Accounts Button button is clicked
+20241216 00:32:47 INFO  [main] tests.AccountTests AccountTests.java135 - Navigating to Merge Accounts page...
+20241216 00:32:47 INFO  [main] tests.AccountTests AccountTests.java136 - Searching for accounts with name: priya
+20241216 00:32:48 INFO  [main] base.BaseTest BaseTest.java405 - Next Button button is clicked
+20241216 00:32:49 INFO  [main] base.BaseTest BaseTest.java405 - Merge Button button is clicked
+20241216 00:32:49 INFO  [main] tests.AccountTests AccountTests.java155 - No alert present after clicking the Merge button.
+20241216 00:33:19 ERROR [main] tests.AccountTests AccountTests.java172 - Merge confirmation pop-up did not appear within the expected time.
+20241216 00:33:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:33:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:33:30 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:33:35 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:33:37 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:33:42 INFO  [main] base.BaseTest BaseTest.java405 - accountsLink button is clicked
+20241216 00:33:43 INFO  [main] base.BaseTest BaseTest.java405 - newViewLink button is clicked
+20241216 00:33:43 INFO  [main] base.BaseTest BaseTest.java415 - Data entered in the Hello
+20241216 00:33:44 INFO  [main] base.BaseTest BaseTest.java415 - Data entered in the test
+20241216 00:33:44 INFO  [main] base.BaseTest BaseTest.java405 -  saveButton button is clicked
+20241216 00:33:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:43:51 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:44:02 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:44:08 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:44:09 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:44:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:47:02 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:47:12 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:47:18 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:47:20 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:47:32 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 00:58:22 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 00:58:38 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 00:58:45 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 00:58:45 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 00:59:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 01:02:11 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 01:02:20 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 01:02:26 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 01:02:27 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 01:02:39 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 01:04:37 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 01:04:47 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 01:04:53 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 01:04:54 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 01:05:02 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 01:13:42 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 01:13:53 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 01:13:59 INFO  [main] base.BaseTest BaseTest.java392 - data is entered in the password
+20241216 01:14:00 INFO  [main] base.BaseTest BaseTest.java405 - login button button is clicked
+20241216 01:14:11 INFO  [main] base.BaseTest BaseTest.java405 - homeTab button is clicked
+20241216 01:14:14 INFO  [main] base.BaseTest BaseTest.java405 - firstNameLastName button is clicked
+20241216 01:14:14 INFO  [main] base.BaseTest BaseTest.java405 - editProfileIcon button is clicked
+20241216 01:14:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 02:38:31 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 02:38:43 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 02:38:49 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 02:38:50 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 02:38:59 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 02:40:43 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 02:40:52 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 02:40:58 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 02:41:00 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 02:41:08 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 02:43:36 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 02:43:46 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 02:43:52 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 02:43:52 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 02:43:57 INFO  [main] base.BaseTest BaseTest.java420 - userMenu button is clicked
+20241216 02:44:01 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 02:59:52 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 03:00:02 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 03:00:08 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 03:00:09 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 03:00:23 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 03:24:48 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 03:24:57 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 03:25:03 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 03:25:09 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 03:25:18 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 03:26:16 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 03:26:27 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 03:26:33 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 03:26:34 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 03:26:43 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 03:39:30 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 03:39:41 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 03:39:47 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 03:39:48 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 03:39:53 INFO  [main] base.BaseTest BaseTest.java420 - userMenu button is clicked
+20241216 03:39:54 INFO  [main] base.BaseTest BaseTest.java420 -  mySettings button is clicked
+20241216 03:39:54 INFO  [main] base.BaseTest BaseTest.java420 - personalLink button is clicked
+20241216 03:39:55 INFO  [main] base.BaseTest BaseTest.java420 - loginHistoryLink button is clicked
+20241216 03:39:56 INFO  [main] base.BaseTest BaseTest.java420 - downloadLoginHistory button is clicked
+20241216 03:39:59 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
+20241216 04:01:00 INFO  [main] base.BaseSalesForce BaseSalesForce.java30 - *********************setUpBeforeMethod**************************
+20241216 04:01:09 INFO  [main] base.BaseTest BaseTest.java82 - https://login.salesforce.com/is entered
+20241216 04:01:14 INFO  [main] base.BaseTest BaseTest.java407 - data is entered in the password
+20241216 04:01:17 INFO  [main] base.BaseTest BaseTest.java420 - login button button is clicked
+20241216 04:01:22 ERROR [main] base.BaseSalesForce BaseSalesForce.java90 - Error during logout: no such element: Unable to locate element: {"method":"link text","selector":"Logout"}
+  (Session info: chrome=131.0.6778.140)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-I7B9QOJ6', ip: '10.0.0.225', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.140, chrome: {chromedriverVersion: 131.0.6778.108 (3b014839fbc..., userDataDir: C:\Users\arasu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60378}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c68894d5206ae6a29411f33ed09936d9
+*** Element info: {Using=link text, value=Logout}
+20241216 04:01:26 INFO  [main] base.BaseSalesForce BaseSalesForce.java45 - ****************tearDownAfterTestMethod*******************
